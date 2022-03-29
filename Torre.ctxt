@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Torre
+comment1.params=casa\ cor\ tabuleiro
+comment1.target=Torre(Casa,\ Cor,\ Tabuleiro)
+comment2.params=destino
+comment2.target=boolean\ podeMover(Casa)
+comment3.params=
+comment3.target=boolean\ getPrimeiroMovimento()
+comment4.params=
+comment4.target=Tipo\ getTipo()
+numComments=5

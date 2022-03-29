@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cavalo
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Cavalo\ aqui.\r\n\ \r\n\ @author\ Lucas\ Freire\ \r\n\ @version\ 04/06/21\r\n
+comment1.params=casa\ cor\ tabuleiro
+comment1.target=Cavalo(Casa,\ Cor,\ Tabuleiro)
+comment2.params=destino
+comment2.target=boolean\ podeMover(Casa)
+comment2.text=\r\n\ podeMover\ -\ verifica\ se\ o\ cavalo\ pode\ se\ mover\ em\ um\ certo\ espa\u00E7o\ do\ tabuleiro\r\n\ \r\n\ @param\ destino\ \ \ \r\n\ @return\ boolean\r\n
+comment3.params=
+comment3.target=Tipo\ getTipo()
+numComments=4
